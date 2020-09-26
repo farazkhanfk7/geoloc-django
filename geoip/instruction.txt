@@ -1,0 +1,12 @@
+**********farazkhan138@gmail.com************
+
+geoloc(project_name)/geoip/GeoLite2-City.mmdb (63.5mb)
+geoloc(project_name)/geoip/GeoLite2-Country.mmdb (3.5mb)
+
+download from maxmind.. used for geoip2
+
+GeoLity 2 city tar.gz => https://download.maxmind.com/app/geoip_download_by_token?edition_id=GeoLite2-City&date=20200922&suffix=tar.gz&token=v2.local.A8QvlP7yFH_L1tEGl49cIIHXJh_EKGJ4Yq4lzMPRD3cE9S73FXmekHDYOgedVbZoPYAga9PRm_J9J4b7IKGMnF6Uos_SyZldMoY3TDI1LfW4jDxBr5mlFIm2tDPVvX0Ecndm-5xCvxIeFDD5xyQANDA3MTjYyAAmGG3qI3m7KMXi-8fIqtLI5GGesFeOwNo3tK-c2w
+GeoLite2 country tar.gz => https://download.maxmind.com/app/geoip_download_by_token?edition_id=GeoLite2-Country&date=20200922&suffix=tar.gz&token=v2.local.k_VvhCR2XViUdXln69tVTOKyMJQWGWgwAOT9NVc5ZpGxGBvq7JlCC2VSxjx0d4TMMKc4tsoQaw6_FuU7O_r83hm8wXRMbaxIt140_yfRLH6Tdf_gYdi9UknebI6T4BhNg9J1LA9JdpS1Xp8MaFr2MsO2SfoTjZFRErQMao1eFRQRaPvTz5wmDMWDFhvJy3hoNsM4Ww
+
+use these links to download or else sign up
+
